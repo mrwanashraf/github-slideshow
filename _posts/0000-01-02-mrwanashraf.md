@@ -1,6 +1,1 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+![github](https://camo.githubusercontent.com/c90d8d627909cfce7cc4e3a2fbf3fe25e5bf4dce/68747470733a2f2f61667465722d7363686f6f6c2d6173736574732e73332e616d617a6f6e6177732e636f6d2f6769742d68616d737465722e6a7067)
